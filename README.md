@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## About Me 🙋‍♂️<br><br>🔭 **I'm currently working on:** Web Dev at InAmigos Foundation (IAF) & IoT safety/renewable energy systems.<br><br>👯 **I'm looking to collaborate on:** Safety-critical automation and Arduino/IoT power solutions.<br><br>🌱 **I'm currently learning:** Power systems optimization and real-time data analytics.<br><br>💬 **Ask me about:** EEE, Arduino, and my solar-wind hybrid projects.<br><br>⚡ **Fun fact:** I built SKYSAFE (an automated suicide prevention system) and a multi-zone smart irrigation setup!
 
 ## 🌐 Socials:
